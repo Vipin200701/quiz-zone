@@ -1,0 +1,48 @@
+{
+  "title": "Java Core Concepts - Medium",
+  "category": "Developer",
+  "subcategory": "Java",
+  "difficulty": "Medium",
+  "questions": [
+    {
+      "questionText": "Which collection does NOT allow duplicate elements?",
+      "option1": "List",
+      "option2": "Set",
+      "option3": "Map",
+      "option4": "Queue",
+      "answer": "Set"
+    },
+    {
+      "questionText": "What does the 'final' keyword do to a variable?",
+      "option1": "Makes it static",
+      "option2": "Prevents reassignment",
+      "option3": "Makes it private",
+      "option4": "Deletes it after use",
+      "answer": "Prevents reassignment"
+    },
+    {
+      "questionText": "Which interface must a class implement to be used in a for-each loop?",
+      "option1": "Iterable",
+      "option2": "Comparable",
+      "option3": "Serializable",
+      "option4": "Runnable",
+      "answer": "Iterable"
+    },
+    {
+      "questionText": "What is the purpose of the 'volatile' keyword?",
+      "option1": "Improves performance",
+      "option2": "Ensures visibility of changes across threads",
+      "option3": "Makes a variable constant",
+      "option4": "Marks a variable for garbage collection",
+      "answer": "Ensures visibility of changes across threads"
+    },
+    {
+      "questionText": "Which exception is thrown when dividing an integer by zero in Java?",
+      "option1": "NullPointerException",
+      "option2": "ArithmeticException",
+      "option3": "NumberFormatException",
+      "option4": "ClassCastException",
+      "answer": "ArithmeticException"
+    }
+  ]
+}

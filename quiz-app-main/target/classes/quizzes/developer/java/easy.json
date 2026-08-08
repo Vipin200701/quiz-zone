@@ -1,0 +1,48 @@
+{
+  "title": "Java Basics - Easy",
+  "category": "Developer",
+  "subcategory": "Java",
+  "difficulty": "Easy",
+  "questions": [
+    {
+      "questionText": "Which keyword is used to create a class in Java?",
+      "option1": "class",
+      "option2": "Class",
+      "option3": "struct",
+      "option4": "define",
+      "answer": "class"
+    },
+    {
+      "questionText": "Which of these is NOT a Java primitive type?",
+      "option1": "int",
+      "option2": "boolean",
+      "option3": "String",
+      "option4": "char",
+      "answer": "String"
+    },
+    {
+      "questionText": "What is the default value of an int variable in Java?",
+      "option1": "null",
+      "option2": "0",
+      "option3": "1",
+      "option4": "undefined",
+      "answer": "0"
+    },
+    {
+      "questionText": "Which method is the entry point of a Java application?",
+      "option1": "start()",
+      "option2": "run()",
+      "option3": "main()",
+      "option4": "init()",
+      "answer": "main()"
+    },
+    {
+      "questionText": "Which symbol is used for single-line comments in Java?",
+      "option1": "//",
+      "option2": "/*",
+      "option3": "#",
+      "option4": "--",
+      "answer": "//"
+    }
+  ]
+}

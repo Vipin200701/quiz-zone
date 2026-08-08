@@ -1,0 +1,187 @@
+:root {
+    --qz-green-dark: #14532d;
+    --qz-green: #16a34a;
+    --qz-green-light: #22c55e;
+    --qz-green-bg: #f0fdf4;
+    --qz-text: #1f2937;
+    --qz-muted: #6b7280;
+}
+
+body {
+    background: var(--qz-green-bg);
+    color: var(--qz-text);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
+
+/* Navbar */
+.qz-navbar {
+    background: linear-gradient(135deg, var(--qz-green-dark), var(--qz-green));
+    padding: 14px 0;
+}
+
+.qz-brand {
+    color: #fff;
+    font-size: 1.35rem;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+.qz-about-btn {
+    color: #fff;
+    background: rgba(255, 255, 255, 0.15);
+    padding: 8px 18px;
+    border-radius: 999px;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 0.9rem;
+    transition: background 0.15s ease;
+}
+
+.qz-about-btn:hover {
+    background: rgba(255, 255, 255, 0.28);
+    color: #fff;
+}
+
+/* Hero */
+.qz-hero {
+    background: linear-gradient(135deg, var(--qz-green-dark), var(--qz-green-light));
+    color: #fff;
+    padding: 56px 0 68px;
+    text-align: center;
+}
+
+.qz-hero h1 {
+    font-weight: 800;
+    font-size: 2.4rem;
+    margin-bottom: 10px;
+}
+
+.qz-hero p {
+    opacity: 0.92;
+    font-size: 1.05rem;
+}
+
+/* Search bar */
+.qz-search-form {
+    max-width: 480px;
+    margin: 28px auto 0;
+}
+
+.qz-search-form input {
+    border-radius: 999px 0 0 999px;
+    border: none;
+    padding: 12px 20px;
+}
+
+.qz-search-form button {
+    border-radius: 0 999px 999px 0;
+    background: var(--qz-green-dark);
+    border: none;
+    color: #fff;
+    padding: 0 22px;
+    font-weight: 600;
+}
+
+.qz-search-form button:hover {
+    background: #0f3d21;
+}
+
+/* Category buttons */
+.qz-category-card {
+    background: #fff;
+    border-radius: 16px;
+    padding: 26px 16px;
+    text-align: center;
+    text-decoration: none;
+    color: var(--qz-text);
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.06);
+    display: block;
+    height: 100%;
+    transition: transform 0.15s ease, box-shadow 0.15s ease;
+    border: 1px solid #e5f5ea;
+}
+
+.qz-category-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 20px rgba(22, 163, 74, 0.18);
+    color: var(--qz-green-dark);
+}
+
+.qz-category-card .qz-icon {
+    font-size: 2rem;
+    color: var(--qz-green);
+    margin-bottom: 10px;
+    display: block;
+}
+
+.qz-category-card h5 {
+    font-weight: 700;
+    margin-bottom: 4px;
+}
+
+.qz-category-card small {
+    color: var(--qz-muted);
+}
+
+/* Quiz cards */
+.qz-quiz-card {
+    border: 1px solid #e5f5ea;
+    border-radius: 14px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+    transition: box-shadow 0.15s ease;
+}
+
+.qz-quiz-card:hover {
+    box-shadow: 0 6px 16px rgba(22, 163, 74, 0.15);
+}
+
+.qz-badge-difficulty {
+    background: var(--qz-green);
+    color: #fff;
+    border-radius: 999px;
+    padding: 4px 12px;
+    font-size: 0.78rem;
+    font-weight: 600;
+}
+
+.qz-btn-primary {
+    background: var(--qz-green);
+    border: none;
+    color: #fff;
+    font-weight: 600;
+    border-radius: 10px;
+}
+
+.qz-btn-primary:hover {
+    background: var(--qz-green-dark);
+    color: #fff;
+}
+
+/* Category chips on browse page */
+.qz-chip {
+    display: inline-block;
+    padding: 7px 16px;
+    border-radius: 999px;
+    background: #fff;
+    border: 1px solid #cdeed9;
+    color: var(--qz-green-dark);
+    text-decoration: none;
+    font-size: 0.88rem;
+    font-weight: 600;
+    margin: 0 6px 10px 0;
+}
+
+.qz-chip.active,
+.qz-chip:hover {
+    background: var(--qz-green);
+    color: #fff;
+    border-color: var(--qz-green);
+}
+
+.qz-section-title {
+    font-weight: 700;
+    color: var(--qz-green-dark);
+    border-left: 4px solid var(--qz-green);
+    padding-left: 10px;
+    margin-bottom: 16px;
+}

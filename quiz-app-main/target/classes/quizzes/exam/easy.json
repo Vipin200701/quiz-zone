@@ -1,0 +1,48 @@
+{
+  "title": "Competitive Exam Prep - Easy",
+  "category": "Exam Prep",
+  "subcategory": "",
+  "difficulty": "Easy",
+  "questions": [
+    {
+      "questionText": "Which body conducts UPSC Civil Services Examination in India?",
+      "option1": "SSC",
+      "option2": "UPSC",
+      "option3": "IBPS",
+      "option4": "RBI",
+      "answer": "UPSC"
+    },
+    {
+      "questionText": "SSC CGL is primarily conducted for recruitment to which type of posts?",
+      "option1": "State government posts only",
+      "option2": "Group B and C posts in central government",
+      "option3": "Private sector jobs",
+      "option4": "Judicial posts",
+      "answer": "Group B and C posts in central government"
+    },
+    {
+      "questionText": "Which exam is required for admission to IITs in India?",
+      "option1": "NEET",
+      "option2": "JEE Advanced",
+      "option3": "CLAT",
+      "option4": "CAT",
+      "answer": "JEE Advanced"
+    },
+    {
+      "questionText": "IBPS PO exam is conducted for recruitment in which sector?",
+      "option1": "Banking",
+      "option2": "Railways",
+      "option3": "Defence",
+      "option4": "Teaching",
+      "answer": "Banking"
+    },
+    {
+      "questionText": "CAT exam is mainly required for admission into which type of programs?",
+      "option1": "Medical colleges",
+      "option2": "MBA programs",
+      "option3": "Law schools",
+      "option4": "Engineering colleges",
+      "answer": "MBA programs"
+    }
+  ]
+}

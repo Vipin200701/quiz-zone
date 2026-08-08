@@ -1,0 +1,48 @@
+{
+  "title": "General Aptitude - Easy",
+  "category": "General Aptitude",
+  "subcategory": "",
+  "difficulty": "Easy",
+  "questions": [
+    {
+      "questionText": "If a train travels 60 km in 1 hour, how far does it travel in 3 hours at the same speed?",
+      "option1": "120 km",
+      "option2": "180 km",
+      "option3": "150 km",
+      "option4": "200 km",
+      "answer": "180 km"
+    },
+    {
+      "questionText": "Find the next number in the series: 2, 4, 8, 16, ?",
+      "option1": "20",
+      "option2": "24",
+      "option3": "32",
+      "option4": "30",
+      "answer": "32"
+    },
+    {
+      "questionText": "A shopkeeper sells an item for ₹120 after a 20% profit. What was the cost price?",
+      "option1": "₹90",
+      "option2": "₹100",
+      "option3": "₹110",
+      "option4": "₹96",
+      "answer": "₹100"
+    },
+    {
+      "questionText": "If today is Monday, what day will it be after 10 days?",
+      "option1": "Wednesday",
+      "option2": "Thursday",
+      "option3": "Friday",
+      "option4": "Tuesday",
+      "answer": "Thursday"
+    },
+    {
+      "questionText": "Which number is the odd one out: 3, 5, 7, 9, 11, 15?",
+      "option1": "9",
+      "option2": "15",
+      "option3": "All are odd, none is 'out'",
+      "option4": "11",
+      "answer": "All are odd, none is 'out'"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "title": "General Science - Easy",
+  "category": "Science",
+  "subcategory": "",
+  "difficulty": "Easy",
+  "questions": [
+    {
+      "questionText": "What is the chemical symbol for water?",
+      "option1": "H2O",
+      "option2": "CO2",
+      "option3": "O2",
+      "option4": "NaCl",
+      "answer": "H2O"
+    },
+    {
+      "questionText": "Which organ pumps blood throughout the human body?",
+      "option1": "Lungs",
+      "option2": "Liver",
+      "option3": "Heart",
+      "option4": "Kidney",
+      "answer": "Heart"
+    },
+    {
+      "questionText": "What force keeps us grounded on Earth?",
+      "option1": "Magnetism",
+      "option2": "Gravity",
+      "option3": "Friction",
+      "option4": "Inertia",
+      "answer": "Gravity"
+    },
+    {
+      "questionText": "Which gas do humans need to breathe in to survive?",
+      "option1": "Nitrogen",
+      "option2": "Oxygen",
+      "option3": "Carbon Dioxide",
+      "option4": "Helium",
+      "answer": "Oxygen"
+    },
+    {
+      "questionText": "What is the boiling point of water at sea level (in Celsius)?",
+      "option1": "90",
+      "option2": "100",
+      "option3": "110",
+      "option4": "120",
+      "answer": "100"
+    }
+  ]
+}

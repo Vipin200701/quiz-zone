@@ -1,0 +1,48 @@
+{
+  "title": "Python Basics - Easy",
+  "category": "Developer",
+  "subcategory": "Python",
+  "difficulty": "Easy",
+  "questions": [
+    {
+      "questionText": "Which symbol is used for comments in Python?",
+      "option1": "//",
+      "option2": "#",
+      "option3": "/*",
+      "option4": "--",
+      "answer": "#"
+    },
+    {
+      "questionText": "Which keyword defines a function in Python?",
+      "option1": "func",
+      "option2": "function",
+      "option3": "def",
+      "option4": "lambda",
+      "answer": "def"
+    },
+    {
+      "questionText": "Which data type is immutable in Python?",
+      "option1": "list",
+      "option2": "dict",
+      "option3": "tuple",
+      "option4": "set",
+      "answer": "tuple"
+    },
+    {
+      "questionText": "What does 'len()' do?",
+      "option1": "Returns the type of an object",
+      "option2": "Returns the length of an object",
+      "option3": "Converts to lowercase",
+      "option4": "Deletes an object",
+      "answer": "Returns the length of an object"
+    },
+    {
+      "questionText": "Which of these is used to install Python packages?",
+      "option1": "npm",
+      "option2": "pip",
+      "option3": "maven",
+      "option4": "gem",
+      "answer": "pip"
+    }
+  ]
+}

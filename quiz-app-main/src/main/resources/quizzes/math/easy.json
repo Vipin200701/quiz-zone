@@ -1,0 +1,48 @@
+{
+  "title": "Math Basics - Easy",
+  "category": "Math",
+  "subcategory": "",
+  "difficulty": "Easy",
+  "questions": [
+    {
+      "questionText": "What is 12 + 15?",
+      "option1": "25",
+      "option2": "27",
+      "option3": "26",
+      "option4": "28",
+      "answer": "27"
+    },
+    {
+      "questionText": "What is the square root of 81?",
+      "option1": "7",
+      "option2": "8",
+      "option3": "9",
+      "option4": "10",
+      "answer": "9"
+    },
+    {
+      "questionText": "What is 9 x 6?",
+      "option1": "54",
+      "option2": "56",
+      "option3": "52",
+      "option4": "58",
+      "answer": "54"
+    },
+    {
+      "questionText": "What is the value of Pi (rounded to 2 decimal places)?",
+      "option1": "3.12",
+      "option2": "3.14",
+      "option3": "3.16",
+      "option4": "3.18",
+      "answer": "3.14"
+    },
+    {
+      "questionText": "What is 100 divided by 4?",
+      "option1": "20",
+      "option2": "25",
+      "option3": "30",
+      "option4": "15",
+      "answer": "25"
+    }
+  ]
+}

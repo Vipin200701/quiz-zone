@@ -1,0 +1,48 @@
+{
+  "title": "General Knowledge - Easy",
+  "category": "General Knowledge",
+  "subcategory": "",
+  "difficulty": "Easy",
+  "questions": [
+    {
+      "questionText": "What is the capital of India?",
+      "option1": "Mumbai",
+      "option2": "New Delhi",
+      "option3": "Kolkata",
+      "option4": "Chennai",
+      "answer": "New Delhi"
+    },
+    {
+      "questionText": "Which is the largest planet in our solar system?",
+      "option1": "Earth",
+      "option2": "Mars",
+      "option3": "Jupiter",
+      "option4": "Saturn",
+      "answer": "Jupiter"
+    },
+    {
+      "questionText": "Who wrote the Indian national anthem?",
+      "option1": "Rabindranath Tagore",
+      "option2": "Mahatma Gandhi",
+      "option3": "Bankim Chandra Chatterjee",
+      "option4": "Sarojini Naidu",
+      "answer": "Rabindranath Tagore"
+    },
+    {
+      "questionText": "Which gas do plants absorb from the atmosphere?",
+      "option1": "Oxygen",
+      "option2": "Nitrogen",
+      "option3": "Carbon Dioxide",
+      "option4": "Hydrogen",
+      "answer": "Carbon Dioxide"
+    },
+    {
+      "questionText": "How many continents are there on Earth?",
+      "option1": "5",
+      "option2": "6",
+      "option3": "7",
+      "option4": "8",
+      "answer": "7"
+    }
+  ]
+}

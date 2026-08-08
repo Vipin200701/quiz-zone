@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>About - Quiz Zone</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.0/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="/css/Style.css">
+</head>
+<body>
+
+<div th:replace="~{fragments/navbar :: navbar}"></div>
+
+<div class="container my-5">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+
+            <div class="card qz-quiz-card p-4 p-md-5">
+                <h2 class="qz-section-title">About Quiz Zone</h2>
+
+                <p>
+                    Quiz Zone is a free, no-login quiz platform covering topics like Developer/IT,
+                    General Knowledge, Math, Science, General Aptitude, Exam Prep, and Interview prep —
+                    with more added over time.
+                </p>
+
+                <p>
+                    There's no database or login here on purpose. Every quiz on this site comes from a
+                    single JSON file — new topics and questions are added by simply dropping in a new
+                    JSON file, and removed the same way. Nothing else needs to change for a new quiz to
+                    show up on the home page.
+                </p>
+
+                <hr class="my-4">
+
+                <h5 class="qz-section-title">Who built this</h5>
+                <p>
+                    Quiz Zone was built by <strong>Vipin Kumar</strong>, a Java &amp; Spring Boot developer,
+                    using Spring Boot on the backend and Thymeleaf/Bootstrap on the frontend.
+                </p>
+                <p class="text-muted">
+                    Vipin also runs a Java &amp; Spring Boot tutorial series on YouTube —
+                    <!-- Add your channel link here, e.g.: <a href="https://youtube.com/@yourchannel">@yourchannel</a> -->
+                    check the channel for Spring Boot walkthroughs and coding tutorials.
+                </p>
+
+                <a href="/" class="btn qz-btn-primary mt-3">Back to Home</a>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+</body>
+</html>

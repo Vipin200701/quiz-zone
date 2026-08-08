@@ -1,0 +1,48 @@
+{
+  "title": "Job Interview Basics - Easy",
+  "category": "Interview",
+  "subcategory": "",
+  "difficulty": "Easy",
+  "questions": [
+    {
+      "questionText": "In 'Tell me about yourself', what should you primarily focus on?",
+      "option1": "Your entire life history",
+      "option2": "Relevant skills and experience for the role",
+      "option3": "Your hobbies only",
+      "option4": "Your salary expectations",
+      "answer": "Relevant skills and experience for the role"
+    },
+    {
+      "questionText": "What does STAR method stand for in behavioral interviews?",
+      "option1": "Situation, Task, Action, Result",
+      "option2": "Story, Talk, Answer, Reflect",
+      "option3": "Skill, Talent, Ability, Role",
+      "option4": "Start, Try, Achieve, Repeat",
+      "answer": "Situation, Task, Action, Result"
+    },
+    {
+      "questionText": "Why do interviewers commonly ask 'What are your weaknesses?'",
+      "option1": "To disqualify you immediately",
+      "option2": "To see self-awareness and growth mindset",
+      "option3": "It's just small talk",
+      "option4": "To check your handwriting",
+      "answer": "To see self-awareness and growth mindset"
+    },
+    {
+      "questionText": "What is generally recommended when discussing salary expectations?",
+      "option1": "Refuse to answer entirely",
+      "option2": "Give a well-researched range",
+      "option3": "Always ask for the maximum possible",
+      "option4": "Avoid researching market rates",
+      "answer": "Give a well-researched range"
+    },
+    {
+      "questionText": "What's a good practice at the end of an interview?",
+      "option1": "Leave immediately without questions",
+      "option2": "Ask thoughtful questions about the role or team",
+      "option3": "Discuss unrelated personal matters",
+      "option4": "Ask only about vacation policy",
+      "answer": "Ask thoughtful questions about the role or team"
+    }
+  ]
+}

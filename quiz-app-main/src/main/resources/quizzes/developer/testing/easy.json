@@ -1,0 +1,48 @@
+{
+  "title": "Software Testing Basics - Easy",
+  "category": "Developer",
+  "subcategory": "Testing",
+  "difficulty": "Easy",
+  "questions": [
+    {
+      "questionText": "What does JUnit primarily test?",
+      "option1": "UI layout",
+      "option2": "Java code units",
+      "option3": "Network speed",
+      "option4": "Database schema",
+      "answer": "Java code units"
+    },
+    {
+      "questionText": "Which annotation marks a JUnit 5 test method?",
+      "option1": "@Test",
+      "option2": "@Testing",
+      "option3": "@Run",
+      "option4": "@Check",
+      "answer": "@Test"
+    },
+    {
+      "questionText": "What is a 'mock' used for in testing?",
+      "option1": "To slow down tests",
+      "option2": "To simulate real dependencies",
+      "option3": "To deploy code",
+      "option4": "To style the UI",
+      "answer": "To simulate real dependencies"
+    },
+    {
+      "questionText": "What is the goal of unit testing?",
+      "option1": "Testing the whole system end-to-end",
+      "option2": "Testing individual components in isolation",
+      "option3": "Testing UI responsiveness",
+      "option4": "Testing server uptime",
+      "answer": "Testing individual components in isolation"
+    },
+    {
+      "questionText": "Which term describes testing done automatically on every code push?",
+      "option1": "Manual testing",
+      "option2": "Continuous Integration testing",
+      "option3": "Exploratory testing",
+      "option4": "Ad-hoc testing",
+      "answer": "Continuous Integration testing"
+    }
+  ]
+}
