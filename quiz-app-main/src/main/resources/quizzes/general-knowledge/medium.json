@@ -1,0 +1,127 @@
+{
+  "title": "General Knowledge - Medium",
+  "category": "General Knowledge",
+  "difficulty": "Medium",
+  "questions": [
+    {
+      "questionText": "Which country is known as the Land of the Rising Sun?",
+      "option1": "China",
+      "option2": "Japan",
+      "option3": "South Korea",
+      "option4": "Thailand",
+      "answer": "Japan"
+    },
+    {
+      "questionText": "Who was the first President of India?",
+      "option1": "Jawaharlal Nehru",
+      "option2": "Dr. Rajendra Prasad",
+      "option3": "Sardar Patel",
+      "option4": "Dr. S. Radhakrishnan",
+      "answer": "Dr. Rajendra Prasad"
+    },
+    {
+      "questionText": "Which is the largest ocean in the world?",
+      "option1": "Atlantic Ocean",
+      "option2": "Indian Ocean",
+      "option3": "Pacific Ocean",
+      "option4": "Arctic Ocean",
+      "answer": "Pacific Ocean"
+    },
+    {
+      "questionText": "Which Indian state has the longest coastline?",
+      "option1": "Maharashtra",
+      "option2": "Tamil Nadu",
+      "option3": "Gujarat",
+      "option4": "Andhra Pradesh",
+      "answer": "Gujarat"
+    },
+    {
+      "questionText": "Who wrote the national anthem of India?",
+      "option1": "Bankim Chandra Chattopadhyay",
+      "option2": "Rabindranath Tagore",
+      "option3": "Sarojini Naidu",
+      "option4": "Subhash Chandra Bose",
+      "answer": "Rabindranath Tagore"
+    },
+    {
+      "questionText": "Which planet is known as the Red Planet?",
+      "option1": "Venus",
+      "option2": "Mars",
+      "option3": "Jupiter",
+      "option4": "Mercury",
+      "answer": "Mars"
+    },
+    {
+      "questionText": "Which gas is most abundant in Earth's atmosphere?",
+      "option1": "Oxygen",
+      "option2": "Carbon dioxide",
+      "option3": "Nitrogen",
+      "option4": "Hydrogen",
+      "answer": "Nitrogen"
+    },
+    {
+      "questionText": "Who discovered the law of gravity?",
+      "option1": "Albert Einstein",
+      "option2": "Galileo Galilei",
+      "option3": "Isaac Newton",
+      "option4": "Nikola Tesla",
+      "answer": "Isaac Newton"
+    },
+    {
+      "questionText": "Which is the largest desert in the world?",
+      "option1": "Sahara Desert",
+      "option2": "Gobi Desert",
+      "option3": "Arabian Desert",
+      "option4": "Antarctic Desert",
+      "answer": "Antarctic Desert"
+    },
+    {
+      "questionText": "Which Indian city is known as the Pink City?",
+      "option1": "Udaipur",
+      "option2": "Jaipur",
+      "option3": "Jodhpur",
+      "option4": "Bikaner",
+      "answer": "Jaipur"
+    },
+    {
+      "questionText": "Which organ in the human body produces insulin?",
+      "option1": "Liver",
+      "option2": "Kidney",
+      "option3": "Pancreas",
+      "option4": "Stomach",
+      "answer": "Pancreas"
+    },
+    {
+      "questionText": "Which is the smallest continent by land area?",
+      "option1": "Europe",
+      "option2": "Australia",
+      "option3": "Antarctica",
+      "option4": "South America",
+      "answer": "Australia"
+    },
+    {
+      "questionText": "Who was the first person to walk on the Moon?",
+      "option1": "Yuri Gagarin",
+      "option2": "Buzz Aldrin",
+      "option3": "Neil Armstrong",
+      "option4": "Michael Collins",
+      "answer": "Neil Armstrong"
+    },
+    {
+      "questionText": "Which Indian river is known as the Sorrow of Bihar?",
+      "option1": "Ganga",
+      "option2": "Kosi",
+      "option3": "Yamuna",
+      "option4": "Godavari",
+      "answer": "Kosi"
+    },
+    {
+      "questionText": "Which metal is liquid at room temperature?",
+      "option1": "Iron",
+      "option2": "Mercury",
+      "option3": "Copper",
+      "option4": "Aluminium",
+      "answer": "Mercury"
+    }
+  ]
+}

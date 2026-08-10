@@ -1,0 +1,127 @@
+{
+  "title": "General Knowledge - Hard",
+  "category": "General Knowledge",
+  "difficulty": "Hard",
+  "questions": [
+    {
+      "questionText": "Which Article of the Indian Constitution deals with the Right to Constitutional Remedies?",
+      "option1": "Article 14",
+      "option2": "Article 19",
+      "option3": "Article 21",
+      "option4": "Article 32",
+      "answer": "Article 32"
+    },
+    {
+      "questionText": "Which is the only planet in the Solar System that rotates clockwise on its axis?",
+      "option1": "Mars",
+      "option2": "Venus",
+      "option3": "Jupiter",
+      "option4": "Saturn",
+      "answer": "Venus"
+    },
+    {
+      "questionText": "Who was the first Indian to win a Nobel Prize?",
+      "option1": "C. V. Raman",
+      "option2": "Mother Teresa",
+      "option3": "Rabindranath Tagore",
+      "option4": "Amartya Sen",
+      "answer": "Rabindranath Tagore"
+    },
+    {
+      "questionText": "Which ancient university was located in present-day Bihar?",
+      "option1": "Taxila",
+      "option2": "Nalanda",
+      "option3": "Vikramashila",
+      "option4": "Both Nalanda and Vikramashila",
+      "answer": "Both Nalanda and Vikramashila"
+    },
+    {
+      "questionText": "Which layer of the Earth's atmosphere contains the ozone layer?",
+      "option1": "Troposphere",
+      "option2": "Stratosphere",
+      "option3": "Mesosphere",
+      "option4": "Thermosphere",
+      "answer": "Stratosphere"
+    },
+    {
+      "questionText": "Which Indian Act introduced separate electorates for Muslims?",
+      "option1": "Indian Councils Act 1892",
+      "option2": "Indian Councils Act 1909",
+      "option3": "Government of India Act 1919",
+      "option4": "Government of India Act 1935",
+      "answer": "Indian Councils Act 1909"
+    },
+    {
+      "questionText": "Which country has the world's longest coastline?",
+      "option1": "Russia",
+      "option2": "Canada",
+      "option3": "Australia",
+      "option4": "United States",
+      "answer": "Canada"
+    },
+    {
+      "questionText": "Who formulated the three laws of planetary motion?",
+      "option1": "Isaac Newton",
+      "option2": "Galileo Galilei",
+      "option3": "Johannes Kepler",
+      "option4": "Nicolaus Copernicus",
+      "answer": "Johannes Kepler"
+    },
+    {
+      "questionText": "Which Indian classical dance originated in Kerala?",
+      "option1": "Kathak",
+      "option2": "Bharatanatyam",
+      "option3": "Kathakali",
+      "option4": "Odissi",
+      "answer": "Kathakali"
+    },
+    {
+      "questionText": "Which is the deepest known point in Earth's oceans?",
+      "option1": "Tonga Trench",
+      "option2": "Mariana Trench",
+      "option3": "Java Trench",
+      "option4": "Puerto Rico Trench",
+      "answer": "Mariana Trench"
+    },
+    {
+      "questionText": "Which treaty formally ended World War I between Germany and the Allied Powers?",
+      "option1": "Treaty of Paris",
+      "option2": "Treaty of Versailles",
+      "option3": "Treaty of Vienna",
+      "option4": "Treaty of Rome",
+      "answer": "Treaty of Versailles"
+    },
+    {
+      "questionText": "Which Indian state was the first to be created on a linguistic basis after independence?",
+      "option1": "Andhra State",
+      "option2": "Maharashtra",
+      "option3": "Gujarat",
+      "option4": "Karnataka",
+      "answer": "Andhra State"
+    },
+    {
+      "questionText": "Which scientist proposed the theory of continental drift?",
+      "option1": "Charles Darwin",
+      "option2": "Alfred Wegener",
+      "option3": "James Hutton",
+      "option4": "Arthur Holmes",
+      "answer": "Alfred Wegener"
+    },
+    {
+      "questionText": "Which civilization is associated with the ancient city of Mohenjo-daro?",
+      "option1": "Egyptian Civilization",
+      "option2": "Mesopotamian Civilization",
+      "option3": "Indus Valley Civilization",
+      "option4": "Roman Civilization",
+      "answer": "Indus Valley Civilization"
+    },
+    {
+      "questionText": "Which fundamental right was described by Dr. B. R. Ambedkar as the 'heart and soul' of the Constitution?",
+      "option1": "Right to Equality",
+      "option2": "Right to Freedom",
+      "option3": "Right to Constitutional Remedies",
+      "option4": "Right against Exploitation",
+      "answer": "Right to Constitutional Remedies"
+    }
+  ]
+}
