@@ -1,0 +1,127 @@
+{
+  "title": "Maths - Medium",
+  "category": "Maths",
+  "difficulty": "Medium",
+  "questions": [
+    {
+      "questionText": "If x + 7 = 15, what is x?",
+      "option1": "6",
+      "option2": "7",
+      "option3": "8",
+      "option4": "9",
+      "answer": "8"
+    },
+    {
+      "questionText": "What is 15% of 240?",
+      "option1": "24",
+      "option2": "30",
+      "option3": "36",
+      "option4": "40",
+      "answer": "36"
+    },
+    {
+      "questionText": "A shirt costs ₹800 and is sold at a 10% discount. What is the selling price?",
+      "option1": "₹700",
+      "option2": "₹720",
+      "option3": "₹740",
+      "option4": "₹760",
+      "answer": "₹720"
+    },
+    {
+      "questionText": "What is the HCF of 24 and 36?",
+      "option1": "6",
+      "option2": "8",
+      "option3": "12",
+      "option4": "18",
+      "answer": "12"
+    },
+    {
+      "questionText": "What is the LCM of 8 and 12?",
+      "option1": "16",
+      "option2": "20",
+      "option3": "24",
+      "option4": "32",
+      "answer": "24"
+    },
+    {
+      "questionText": "If 3x = 27, what is x?",
+      "option1": "6",
+      "option2": "7",
+      "option3": "8",
+      "option4": "9",
+      "answer": "9"
+    },
+    {
+      "questionText": "A train travels 180 km in 3 hours. What is its average speed?",
+      "option1": "50 km/h",
+      "option2": "60 km/h",
+      "option3": "70 km/h",
+      "option4": "80 km/h",
+      "answer": "60 km/h"
+    },
+    {
+      "questionText": "What is the area of a rectangle with length 12 cm and width 8 cm?",
+      "option1": "80 cm²",
+      "option2": "96 cm²",
+      "option3": "100 cm²",
+      "option4": "120 cm²",
+      "answer": "96 cm²"
+    },
+    {
+      "questionText": "A number is increased from 200 to 250. What is the percentage increase?",
+      "option1": "20%",
+      "option2": "25%",
+      "option3": "30%",
+      "option4": "35%",
+      "answer": "25%"
+    },
+    {
+      "questionText": "What is the value of 2³ + 3²?",
+      "option1": "15",
+      "option2": "16",
+      "option3": "17",
+      "option4": "18",
+      "answer": "17"
+    },
+    {
+      "questionText": "If the ratio of boys to girls is 3:2 and there are 30 boys, how many girls are there?",
+      "option1": "15",
+      "option2": "20",
+      "option3": "25",
+      "option4": "30",
+      "answer": "20"
+    },
+    {
+      "questionText": "What is the simple interest on ₹5000 at 10% per annum for 2 years?",
+      "option1": "₹500",
+      "option2": "₹750",
+      "option3": "₹1000",
+      "option4": "₹1500",
+      "answer": "₹1000"
+    },
+    {
+      "questionText": "If 5 workers complete a job in 12 days, how many worker-days are required?",
+      "option1": "50",
+      "option2": "60",
+      "option3": "70",
+      "option4": "80",
+      "answer": "60"
+    },
+    {
+      "questionText": "What is the next number in the sequence: 2, 6, 12, 20, 30, ?",
+      "option1": "36",
+      "option2": "40",
+      "option3": "42",
+      "option4": "44",
+      "answer": "42"
+    },
+    {
+      "questionText": "What is √144 + √81?",
+      "option1": "19",
+      "option2": "20",
+      "option3": "21",
+      "option4": "22",
+      "answer": "21"
+    }
+  ]
+}

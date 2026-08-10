@@ -1,0 +1,127 @@
+{
+  "title": "Maths - Hard",
+  "category": "Maths",
+  "difficulty": "Hard",
+  "questions": [
+    {
+      "questionText": "If x + 1/x = 5, what is x² + 1/x²?",
+      "option1": "21",
+      "option2": "23",
+      "option3": "25",
+      "option4": "27",
+      "answer": "23"
+    },
+    {
+      "questionText": "If x - 1/x = 3, what is x² + 1/x²?",
+      "option1": "7",
+      "option2": "9",
+      "option3": "11",
+      "option4": "13",
+      "answer": "11"
+    },
+    {
+      "questionText": "The roots of x² - 10x + k = 0 differ by 4. What is the value of k?",
+      "option1": "18",
+      "option2": "21",
+      "option3": "24",
+      "option4": "28",
+      "answer": "21"
+    },
+    {
+      "questionText": "If log₂(x) + log₂(x - 2) = 3, what is x?",
+      "option1": "2",
+      "option2": "3",
+      "option3": "4",
+      "option4": "6",
+      "answer": "4"
+    },
+    {
+      "questionText": "A train 180 meters long crosses a platform 270 meters long in 18 seconds. What is the speed of the train?",
+      "option1": "80 km/h",
+      "option2": "90 km/h",
+      "option3": "100 km/h",
+      "option4": "110 km/h",
+      "answer": "90 km/h"
+    },
+    {
+      "questionText": "A can complete a work in 15 days and B can complete it in 20 days. They work together for 4 days. What fraction of the work remains?",
+      "option1": "1/3",
+      "option2": "2/5",
+      "option3": "7/15",
+      "option4": "8/15",
+      "answer": "7/15"
+    },
+    {
+      "questionText": "What is the probability of drawing two aces consecutively from a standard deck of 52 cards without replacement?",
+      "option1": "1/169",
+      "option2": "1/221",
+      "option3": "1/265",
+      "option4": "1/325",
+      "answer": "1/221"
+    },
+    {
+      "questionText": "How many different 4-digit numbers can be formed using the digits 1, 2, 3, 4, 5 without repetition?",
+      "option1": "60",
+      "option2": "100",
+      "option3": "120",
+      "option4": "240",
+      "answer": "120"
+    },
+    {
+      "questionText": "The sum of the first n positive integers is 210. What is n?",
+      "option1": "18",
+      "option2": "19",
+      "option3": "20",
+      "option4": "21",
+      "answer": "20"
+    },
+    {
+      "questionText": "If the arithmetic mean of two numbers is 15 and their geometric mean is 12, what is their product?",
+      "option1": "120",
+      "option2": "144",
+      "option3": "180",
+      "option4": "225",
+      "answer": "144"
+    },
+    {
+      "questionText": "A sum of ₹20,000 is invested at 8% compound interest annually for 2 years. What is the amount?",
+      "option1": "₹23,000",
+      "option2": "₹23,328",
+      "option3": "₹23,400",
+      "option4": "₹24,000",
+      "answer": "₹23,328"
+    },
+    {
+      "questionText": "If sin θ = 5/13 and θ is acute, what is tan θ?",
+      "option1": "5/12",
+      "option2": "12/5",
+      "option3": "5/13",
+      "option4": "13/12",
+      "answer": "5/12"
+    },
+    {
+      "questionText": "What is the remainder when 3^100 is divided by 8?",
+      "option1": "1",
+      "option2": "3",
+      "option3": "5",
+      "option4": "7",
+      "answer": "1"
+    },
+    {
+      "questionText": "If the sum of the first 10 terms of an arithmetic progression is 150 and the first term is 6, what is the common difference?",
+      "option1": "2",
+      "option2": "3",
+      "option3": "4",
+      "option4": "5",
+      "answer": "2"
+    },
+    {
+      "questionText": "A circle has an area of 154 cm². Using π = 22/7, what is its circumference?",
+      "option1": "44 cm",
+      "option2": "88 cm",
+      "option3": "22 cm",
+      "option4": "77 cm",
+      "answer": "44 cm"
+    }
+  ]
+}
